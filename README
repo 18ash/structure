@@ -1,0 +1,10 @@
+Aim: to accept the product details and print them
+Algorithm:
+Start
+Declare a user defined structure
+Accept the details of the product from the user and store them
+print the details of the product
+end
+
+conclusion
+we learnt how to create a class using structure.
